@@ -1,5 +1,6 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Frontend web development projects using HTML, CSS, JavaScript, React, along with small backend-supported projects like a QR Code Generator built while learning Python & Flask and a movie review website using MongoDB. I enjoy building practical, real-world applications.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, frontend/UI-UX designs, React-based applications, and social impact or sustainability-focused tech projects.<br><br>🤝 I’m looking for help with<br>Improving React skills, better frontend–backend integration, working with databases like MongoDB, API handling, and deployment basics.<br><br>🌱 I’m currently learning<br>React.js, Python & Flask (basics), MongoDB, REST APIs, Git/GitHub, responsive web design, and strengthening fundamentals in Data Structures & Algorithms.<br><br>💬 Ask me about<br>Frontend development, beginner-level QR Code generator projects, movie review websites, website design, college tech projects, and GitHub profile setup.<br><br>⚡ Fun fact<br>I love transforming simple ideas into clean, user-friendly web interfaces and learning new technologies by building projects step by step 🚀
+
 
 
 ## 🌐 Socials:
